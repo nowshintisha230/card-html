@@ -7,11 +7,17 @@ div h1{
     background-color: aquamarine;
 
 }
-
+div p{
+    color: black;
+    font-weight: bolder;
+    background-color: lightgray;
+    text-align: center;
+}
 
 .div{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .div2{
@@ -64,5 +70,53 @@ div h1{
 }
 
 .div4 button{
+    background-color:lightgreen ;
+}
+.div5{
+    border:5px solid black;
+    margin:9px;
+    padding: 10px;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.203);
+    height:300px;
+    width:500px;
+    background-color: lightpink;
+
+}
+
+.div5 button{
+    background-color:lightgreen ;
+}
+.div6{
+    border:5px solid black;
+    margin:9px;
+    padding: 10px;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.203);
+    height:300px;
+    width:500px;
+    background-color: cornflowerblue;
+
+}
+
+.div6 button{
+    background-color:lightgreen ;
+}
+.div7{
+    border:5px solid black;
+    margin:9px;
+    padding: 10px;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.203);
+    height:300px;
+    width:500px;
+    background-color: lightgreen;
+
+}
+
+.div7 button{
     background-color:lightgreen ;
 }
